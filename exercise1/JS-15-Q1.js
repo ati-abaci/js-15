@@ -9,8 +9,8 @@ body.style.backgroundColor="#0a122d";
 
 const image=document.querySelector("#strangeFish")
 image.style.margin="4rem 0";
-image.style.borderRadius="5%";
-image.style.border="1rem";
+image.style.borderRadius="1rem";
+
 
 const heroTitle=document.querySelector(".hero__title")
 heroTitle.style.top = "100px"; 
